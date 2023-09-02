@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: Ricardo Alvarenga
+      * Date: 2023-09-02
+      * Purpose: Teste de Ambiente
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
